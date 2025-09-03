@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there 👋, I'm Balaji K  
 
-<!--
-**Balaji-itz-me/Balaji-itz-me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Aspiring Data Scientist | Data Analyst | AI & ML Enthusiast**  
 
-Here are some ideas to get you started:
+I’m passionate about leveraging **Machine Learning, Deep Learning, NLP, and Generative AI** to solve real-world problems.  
+I enjoy turning complex datasets into **actionable insights** and building **end-to-end data-driven solutions**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills & Tools
+- **Programming & ML:** Python, SQL, PyTorch, TensorFlow, Scikit-learn  
+- **Data Analytics & Visualization:** Pandas, NumPy, Power BI, Tableau, Streamlit, Matplotlib, Plotly  
+- **Machine Learning & AI:** Supervised/Unsupervised Learning, Deep Learning, NLP, Generative AI (LLMs, Transformers)  
+- **Other Tools:** Git, GitHub, Jupyter, Excel  
+
+---
+
+## 📌 Featured Projects
+- 🎵 **Music Genre Classification & Recommendation System** → ML models for genre classification, popularity prediction, trend analysis, and hybrid recommendations.  
+- 💬 **Comment Toxicity Detection with Streamlit** → Deep learning NLP app using BERT + PyTorch for real-time content moderation.  
+- 💳 **PhonePe Transaction Analytics Dashboard** → SQL + Power BI + Streamlit dashboard analyzing 500M+ digital transactions across India.  
+- 🤖 **RAG-powered QA Chatbot** → Retrieval-Augmented Generation system with BM25 + FAISS + Hugging Face Transformers.  
+
+👉 Explore all my projects in the [Repositories](https://github.com/your-username?tab=repositories) section.  
+
+---
+
+## 📫 Connect with Me
+- 🌍 Location: Delhi,India
+- 💼 [LinkedIn](https://www.linkedin.com/in/balaji-k-626613157/)  
+- 💻 [GitHub](https://github.com/Balaji-itz-me)  
+- ✉️ Email: balajikamaraj99@gmail.com
+
+---
+
+⭐️ *Always learning, always building — open to collaborations and opportunities in Data Science & AI!*  
