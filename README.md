@@ -21,7 +21,7 @@ I enjoy turning complex datasets into **actionable insights** and building **end
 - 💳 **PhonePe Transaction Analytics Dashboard** → SQL + Power BI + Streamlit dashboard analyzing 500M+ digital transactions across India.  
 - 🤖 **RAG-powered QA Chatbot** → Retrieval-Augmented Generation system with BM25 + FAISS + Hugging Face Transformers.  
 
-👉 Explore all my projects in the [Repositories](https://github.com/your-username?tab=repositories) section.  
+👉 Explore all my projects in the [Repositories](https://github.com/Balaji-itz-me?tab=repositories) section.  
 
 ---
 
