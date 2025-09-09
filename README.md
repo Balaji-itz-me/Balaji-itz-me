@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Balaji K  
-**Data Analyst | Business Intelligence Specialist | Turning Data into Strategic Insights**
+**Aspiring Data Analyst | Business Intelligence Specialist | Turning Data into Strategic Insights**
 
 I specialize in transforming complex datasets into **clear business insights** that drive strategic decision-making. With expertise in **SQL, Python, and advanced BI tools**, I help organizations uncover patterns, optimize performance, and identify growth opportunities through data-driven analytics.
 
