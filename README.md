@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Balaji K  
+# Hi there 👋, I'm Balaji Kamaraj
 **Data Scientist | ML Engineer | AI Engineer | Building Production-Ready ML Solutions**
 
 I specialize in **designing, developing, and deploying end-to-end machine learning systems** that solve real-world problems. From data engineering pipelines to production ML models, I deliver scalable AI solutions with measurable business impact.
