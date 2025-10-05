@@ -74,11 +74,6 @@ I specialize in **designing, developing, and deploying end-to-end machine learni
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Balaji-itz-me&show_icons=true&theme=tokyonight)
-
----
 
 ## 🤝 Let's Connect
 
