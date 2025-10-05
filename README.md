@@ -31,7 +31,7 @@ I specialize in **designing, developing, and deploying end-to-end machine learni
 - **Databases:** SQL (PostgreSQL, MySQL), Vector Databases (FAISS, Pinecone)
 
 ### Programming & Analytics
-- **Languages:** Python (Expert), SQL (Advanced), R
+- **Languages:** Python (Expert), SQL (Advanced)
 - **Data Science Stack:** Pandas, NumPy, Scikit-learn, SciPy, Statsmodels
 - **Statistical Analysis:** Hypothesis Testing, A/B Testing, Bayesian Inference, Experimental Design
 - **Visualization:** Plotly, Matplotlib, Seaborn, Power BI, Tableau, Streamlit
