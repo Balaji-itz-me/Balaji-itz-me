@@ -21,7 +21,7 @@ I specialize in building **end-to-end machine learning solutions** and conductin
 
 ### MLOps & Deployment
 - **Model Deployment:** Docker, Flask/FastAPI, AWS SageMaker, model versioning
-- **Data Pipeline:** Apache Airflow, ETL automation, data validation frameworks
+- **Data Pipeline:** ETL automation, data validation frameworks
 - **Monitoring:** Model drift detection, performance monitoring, A/B testing frameworks
 - **Tools:** Git/GitHub, Jupyter, MLflow, Docker, cloud platforms (AWS)
 
@@ -34,41 +34,60 @@ I specialize in building **end-to-end machine learning solutions** and conductin
 
 ## Featured Data Science Projects
 
-### **Advanced Music Recommendation & Analytics Platform**
-**Impact:** Built production-ready ML system analyzing 114K+ songs with 89% accuracy
-- Developed ensemble clustering models to identify music market segments
-- Implemented collaborative and content-based filtering algorithms
-- Built time series forecasting models for trend prediction with LSTM networks
-- Deployed scalable recommendation API using Flask and AWS
-- **Techniques:** Clustering, Deep Learning, Time Series, Recommendation Systems
-- **Tools:** Python, TensorFlow, Scikit-learn, AWS, Docker
+### **RAG-Based Question Answering System with Hybrid Retrieval**
+**Key Skills:** RAG Architecture, FAISS Vector Database, Google Gemini
+  LLM, FastAPI, AWS EC2, Sentence Transformers, BM25, Python, Streamlit
+• Developed conversational AI system demonstrating production RAG
+  implementation, processing website content to deliver contextual
+  answers with accurate source attribution through hybrid retrieval and
+  LLM integration.
+• Engineered multi-stage RAG pipeline: document ingestion and
+  preprocessing → semantic chunking strategy (1000 tokens, 200-token
+  overlap) → embedding generation using sentence-transformers →
+  FAISS vector indexing → hybrid search combining dense retrieval
+  (cosine similarity) and sparse retrieval (BM25) → prompt engineering
+  for Gemini-1.5-Flash → citation extraction and response formatting.
+• Deployed full-stack application on AWS EC2 (FastAPI backend) and
+  Streamlit Cloud (frontend), implementing production best practices
+  including API rate limiting, request caching, comprehensive logging,
+  error handling, and concurrent user support; showcased ability to
+  design, build, and deploy complete AI systems independently.
 
-### **PhonePe Transaction Fraud Detection & Analytics**
-**Impact:** Developed ML models analyzing 500M+ transactions with 94% fraud detection accuracy
-- Built real-time anomaly detection system using isolation forests and autoencoders
-- Implemented feature engineering pipeline for transaction pattern analysis
-- Created predictive models for transaction volume forecasting
-- Developed interactive ML dashboard for business stakeholders
-- **Techniques:** Anomaly Detection, Feature Engineering, Time Series Forecasting
-- **Tools:** Python, Scikit-learn, XGBoost, SQL, Streamlit, Power BI
+### **AI Content Moderation System – Multi-Label Toxicity Classification**
+**Key Skills:** BERT, Transformers, PyTorch, NLP, Streamlit, Multi-label
+  Classification, Model Fine-tuning, Production Deployment
+- Developed AI-powered content moderation system for automated
+  toxicity detection across 6 categories (toxic, severe_toxic, etc),
+  demonstrating practical application of transformer-based models for
+  text classification.
+- Fine-tuned BERT-base-uncased model with custom classification
+  head using PyTorch and Hugging Face Transformers; implemented
+  complete preprocessing pipeline for text normalization, tokenization,
+  and batch inference; deployed as interactive web application with
+  Streamlit supporting both single-text analysis and bulk CSV
+  processing for scalable content moderation.
+- Achieved strong classification performance (F1-score: 0.78, Precision:
+  77%, Recall: 80%) on validation data; deployed production-ready
+  application demonstrating end-to-end deep learning workflow from
+  model training to user-facing deployment.
 
-### **Customer Lifetime Value Prediction & Segmentation**
-**Impact:** Developed predictive CLV model achieving 85% accuracy, identifying $2M+ revenue opportunity
-- Built advanced customer segmentation using K-means and hierarchical clustering
-- Implemented survival analysis for churn prediction modeling
-- Developed cohort analysis framework and statistical testing pipeline
-- Created automated A/B testing framework for marketing experiments
-- **Techniques:** Predictive Modeling, Survival Analysis, Statistical Testing, Clustering
-- **Tools:** Python, Scikit-learn, Statistical Analysis, SQL
-
-### **Intelligent Document QA System with RAG**
-**Advanced AI Project:** Production-ready NLP system with enterprise deployment
-- Built hybrid retrieval system combining dense and sparse embeddings
-- Implemented transformer-based question answering with BERT/RoBERTa
-- Developed vector database solution with FAISS for semantic search
-- Deployed scalable microservices architecture on AWS with monitoring
-- **Techniques:** NLP, Deep Learning, Information Retrieval, MLOps
-- **Tools:** Python, Transformers, FAISS, Docker, AWS, FastAPI
+### **ML-Powered Music Analytics & Recommendation System**
+**Key Skills:** Python, Random Forest, KMeans, Streamlit, Spotify API,
+  Recommendation Systems, Prophet, SHAP
+- Built comprehensive analytics platform processing 114,000+ Spotify
+  tracks with genre classification, popularity prediction, and hybrid
+  recommendation system, demonstrating end-to-end ML pipeline
+  development.
+- Developed interactive Streamlit dashboard integrating multiple ML
+  models: Random Forest classifier for super-genre classification (99%
+  accuracy on test data), regression model for popularity prediction (R2
+  = 0.5539), and hybrid content-based recommender; implemented
+  SHAP analysis for model interpretability and Prophet for trend
+  forecasting.
+- Created production-ready recommendation system combining
+  content-based filtering with collaborative approaches; visualized
+  insights through interactive dashboard enabling music industry trend
+  analysis and personalized song suggestions.
 
 **Explore all projects:** [GitHub Repositories](https://github.com/Balaji-itz-me?tab=repositories)
 
@@ -95,16 +114,21 @@ I specialize in building **end-to-end machine learning solutions** and conductin
 
 ## Certifications & Learning
 
-- **Machine Learning Specialization** - Continuous learning in advanced ML techniques
-- **Deep Learning & Neural Networks** - Advanced AI model development
-- **MLOps & Production ML** - Scalable machine learning systems
-- **Statistical Analysis & Research Methods** - Rigorous analytical frameworks
+**IIT Madras Professional Data Science
+Certification**
+-  Advanced Programming, Machine Learning &
+   AI Systems
+-  IIT-M GUVI (Indian Institute of Technology
+  Madras)
+-  Covered: Python, ML Algorithms, Deep
+  Learning, NLP, Model Deployment, Production
+  Systems
 
 ---
 
 ## Let's Connect
 
-**Location:** Delhi, India  
+**Location:** Palani, Tamil Nadu, India  
 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/balaji-k-626613157/)  
 **GitHub:** [View my work](https://github.com/Balaji-itz-me)  
 **Email:** balajikamaraj99@gmail.com
