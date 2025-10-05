@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Balaji K  
-**Aspiring Data Scientist | Machine Learning Engineer | Transforming Data into Predictive Intelligence**
+**Data Scientist | Machine Learning Engineer | Transforming Data into Predictive Intelligence**
 
 I specialize in building **end-to-end machine learning solutions** and conducting advanced statistical analysis to solve complex business problems. With expertise in **Python, machine learning algorithms, and MLOps**, I develop predictive models, conduct experimental research, and deploy scalable data science solutions that drive measurable business impact.
 
